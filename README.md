@@ -1,7 +1,8 @@
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/0-jerry"
-  width="600"
-  height="300"
-/>
-</a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/677148109495432891/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
